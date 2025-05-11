@@ -16,3 +16,5 @@ image, changes protection, clears itself and jumps to the entry point via some R
 
 - RDI.c program was initially written in C, later i rewrote it in assembly for clean call stack and graceful exit
   when embedded internal PE payload returns. also added support for EXE, Dll, cobalt strike PEs. 
+
+The codebase is for learning and archival purpose. expect no support.
